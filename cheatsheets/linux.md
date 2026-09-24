@@ -1,6 +1,6 @@
-# 10 Most Commonly Used Linux Commands
+# Common Linux commands
 
-Below are some of the most frequently used Linux commands with brief descriptions and examples.
+Frequently used Linux commands with brief descriptions and examples.
 
 ---
 
@@ -62,7 +62,7 @@ rm file.txt
 rm -r dir1/   # Remove a directory recursively
 ```
 
-⚠️ Use with caution — deleted files cannot be easily recovered.
+Caution: deleted files cannot be easily recovered.
 
 ---
 
@@ -104,19 +104,18 @@ man mkdir
 ```
 
 ---
-### Quick Reference Table
 
-| Command | Description                          |
-|---------|--------------------------------------|
-| `ls`    | List directory contents              |
-| `cd`    | Change directory                     |
-| `pwd`   | Show current directory path          |
-| `cp`    | Copy files or directories            |
-| `mv`    | Move or rename files/directories     |
-| `rm`    | Remove files or directories          |
-| `touch` | Create empty files                   |
-| `mkdir` | Create directories                   |
-| `cat`   | View or concatenate files            |
-| `man`   | Show command manual                  |
+### Quick reference
 
----
+| Command | Description |
+|---------|-------------|
+| `ls` | List directory contents |
+| `cd` | Change directory |
+| `pwd` | Show current directory path |
+| `cp` | Copy files or directories |
+| `mv` | Move or rename files/directories |
+| `rm` | Remove files or directories |
+| `touch` | Create empty files |
+| `mkdir` | Create directories |
+| `cat` | View or concatenate files |
+| `man` | Show command manual |
